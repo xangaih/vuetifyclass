@@ -1,0 +1,1 @@
+# vuetifyclass
